@@ -1,6 +1,6 @@
 <testsuites name="results">
   <testsuite name="all" package="all">
-    <property name="random_seed" value="1773137623" />
-    <testcase name="final_stress_test" classname="test_axi" file="/home/nikita/projects/axi_verify/test_axi.py" lineno="19" time="0.31162333488464355" sim_time_ns="20020.0" ratio_time="64244.226150172566" />
+    <property name="random_seed" value="1773140566" />
+    <testcase name="full_system_verify" classname="test_axi_handshake" file="/home/nikita/projects/axi_verify/test_axi_handshake.py" lineno="39" time="0.0029757022857666016" sim_time_ns="70.0" ratio_time="23523.85866517106" />
   </testsuite>
 </testsuites>
